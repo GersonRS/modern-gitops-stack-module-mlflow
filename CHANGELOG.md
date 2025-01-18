@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.1](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/compare/v1.1.0...v1.1.1) (2024-08-08)
+
+
+### 🔥 Bug Fixes
+
+* fix source repo ([1f3f036](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/commit/1f3f0365f01e7a7d2ea69f465f85f7daa452e402))
+
+## [1.1.0](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/compare/v1.0.0...v1.1.0) (2024-05-17)
+
+
+### 🚀 New Features
+
+* ajdust module ([1d8d788](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/commit/1d8d788adc9c456c95eed7bb7ba52a44671a9d49))
+
 ## [2.4.0](https://github.com/GersonRS/modern-gitops-stack-module-minio/compare/v2.3.0...v2.4.0) (2024-05-01)
 
 
