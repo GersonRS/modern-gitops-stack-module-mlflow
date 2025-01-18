@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/compare/v1.1.1...v1.2.0) (2025-01-18)
+
+
+### 🚀 New Features
+
+* update provider and chart ([f30954c](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/commit/f30954ce4c7c9b59b0deac718849699db03c5cc1))
+
 ## [1.1.1](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/compare/v1.1.0...v1.1.1) (2024-08-08)
 
 
