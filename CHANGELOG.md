@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/compare/v1.2.0...v1.2.1) (2025-02-08)
+
+
+### ⌨️ Code Refactoring
+
+* adjust workflows ([c9ba0ab](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/commit/c9ba0ab7f249da0c7cea7e8b96acb8015c42500d))
+* try adjust code 5 ([b453802](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/commit/b45380227976798a752e2161c50db70a80507978))
+
 ## [1.2.0](https://github.com/GersonRS/modern-gitops-stack-module-mlflow/compare/v1.1.1...v1.2.0) (2025-01-18)
 
 
